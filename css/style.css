@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Ruda', sans-serif;
+}
+
+.bg-sec{
+    background-color: #6c757d61;
+}
